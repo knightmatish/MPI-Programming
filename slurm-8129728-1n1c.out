@@ -1,0 +1,107 @@
+MPI setup: 1 Node(s), 1 Core(s)
+---------- Generating Output ----------
+----- Grid - C2 - Contains, 145096 posts
+	 #MELBOURNE - 11208
+	 #AUSTRALIA - 1604
+	 #JOB - 1493
+	 #JOBS - 1300
+	 #HIRING - 845
+----- Grid - B2 - Contains, 79633 posts
+	 #MELBOURNE - 906
+	 #AUSPOL - 343
+	 #INCIDENT: - 283
+	 #VICTRAFFIC - 239
+	 #FIREALARM: - 237
+----- Grid - C3 - Contains, 53299 posts
+	 #MELBOURNE - 533
+	 #VICTRAFFIC - 297
+	 #INCIDENT: - 293
+	 #FIREALARM: - 232
+	 #STRUCTUREFIRE: - 219
+----- Grid - B3 - Contains, 26550 posts
+	 #INCIDENT: - 205
+	 #MELBOURNE - 196
+	 #STRUCTUREFIRE: - 177
+	 #NONSTRUCTUREFIRE: - 159
+	 #FIREALARM: - 158
+----- Grid - C4 - Contains, 19699 posts
+	 #AUSPOL - 265
+	 #STRUCTUREFIRE: - 179
+	 #SAVEDALLAS - 162
+	 #INCIDENT: - 156
+	 #VICTRAFFIC - 144
+----- Grid - B1 - Contains, 16507 posts
+	 #MELBOURNE - 186
+	 #STRUCTUREFIRE: - 134
+	 #VOTE5SOS - 130
+	 #NONSTRUCTUREFIRE: - 128
+	 #INCIDENT: - 99
+----- Grid - D4 - Contains, 14497 posts
+	 #NOWPLAYING - 1730
+	 #KARISHMATANNACRAZE - 83
+	 #VICTRAFFIC - 79
+	 #STRUCTUREFIRE: - 70
+	 #ASSISTOTHERAGENCY: - 49
+----- Grid - D3 - Contains, 13388 posts
+	 #MELBOURNE - 88
+	 #VICTRAFFIC - 63
+	 #BEACH - 62
+	 #STRUCTUREFIRE: - 62
+	 #INCIDENT: - 58
+----- Grid - C1 - Contains, 8427 posts
+	 #JACKFOLLOWME - 148
+	 #INCIDENT: - 99
+	 #STRUCTUREFIRE: - 98
+	 #JACKDM - 97
+	 #CAMTO4MILL - 73
+----- Grid - B4 - Contains, 5450 posts
+	 #NONSTRUCTUREFIRE: - 55
+	 #STRUCTUREFIRE: - 49
+	 #INCIDENT: - 42
+	 #MELBOURNE - 38
+	 #SMALLZYWELCOMESHOME5SOS - 27
+----- Grid - A3 - Contains, 5036 posts
+	 #RAW - 39
+	 #STRUCTUREFIRE: - 38
+	 #SAVECONSTANTINE - 30
+	 #NONSTRUCTUREFIRE: - 30
+	 #VICFIRES - 19
+----- Grid - A2 - Contains, 4165 posts
+	 #KRAZYKRISTMAS - 167
+	 #NONSTRUCTUREFIRE: - 72
+	 #STRUCTUREFIRE: - 70
+	 #RCL1MILLIONGIVEAWAY - 59
+	 #EGSHOLIDAYGIVEAWAY - 57
+----- Grid - C5 - Contains, 4106 posts
+	 #MELBOURNE - 53
+	 #VICTRAFFIC - 31
+	 #PHOTO - 20
+	 #AUSTRALIA - 17
+	 #1000STEPS - 16
+----- Grid - D5 - Contains, 3248 posts
+	 #LOST - 29
+	 #SOMEBODYTOCON - 27
+	 #CAT, - 25
+	 #MELBOURNE - 22
+	 #FINDJASPER - 21
+----- Grid - A1 - Contains, 2533 posts
+	 #MELBOURNE - 15
+	 #BBAU - 14
+	 #WORLDJUDO2014 - 11
+	 #VOBIS - 11
+	 #TATTOO - 11
+----- Grid - A4 - Contains, 310 posts
+	 #AUSPOL - 7
+	 #LNP - 5
+	 #LIBSPILL - 5
+	 #QLDVOTES - 4
+	 #PHOTO - 3
+---------- End ----------
+Total number of tweets located - 401944
+Program Run Time- 192.2088 secs
+
+real	3m57.714s
+user	3m2.124s
+sys	0m18.125s
+Submitted batch job 8129761
+Submitted batch job 8129762
